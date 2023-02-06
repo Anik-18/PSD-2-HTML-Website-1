@@ -1,0 +1,279 @@
+body{margin:0px;padding: 0;box-sizing: border-box;font-family: sans-serif;}
+
+/* =====================================
+TOP HEADER DESIGN START
+===================================== */
+
+header.top_header{padding: 0px;background: #474747;}
+header.top_header ul{margin-top: 19px;padding: 5px 0px;}
+
+a.link{margin-right: 6px;}
+
+a.link i{color: white;font-size: 14px;padding: 7px;background: #635f5f;border-radius: 100%;transition: all 0.5s ;}
+a.link i:hover{background: rgb(219, 7, 7);}
+li.li2_icon_list{border-right: 2px solid rgb(226, 223, 223);padding-left: 7px;padding-right: 7px;}
+li.li2_icon_list:first-child{padding-left: 0px;}
+li.li2_icon_list:last-child{border: none;padding-right: 0px;}
+
+li.li2_icon_list a.link2{color: white;font-size: 12pt;text-decoration: none;}
+
+
+div.content{padding: 0;}
+div.content img{position: absolute;
+    top: 72px;
+    left: 1200px;
+    /* margin-top: 73px; */
+    /* margin-left: 621px; */
+    float: right;}
+
+/* =====================================
+TOP HEADER DESIGN END
+===================================== */
+
+/* =====================================
+NEXT TOP HEADER DESIGN START
+===================================== */
+
+div.logo_main_block{background: #636363;}
+a.logo_link{font-weight: smooth;font-family:Georgia, 'Times New Roman', Times, serif;}
+a.logo_link span{font-size: 42px;}
+a.logo_link span.smallFont{font-size: 27px;margin: 0px 5px;}
+
+div.logo_form_block{padding: 40px 0px;
+    padding-bottom: 130px;}
+form.form_block{margin-top: 12px;
+    width: 335px;
+}
+form.form_block div.box{box-shadow: -5px 4px 13px 0px #000000a8;border: none;background: #65717c;}
+
+input.left_input_bg::placeholder {
+    color: rgb(204, 204, 204);
+    opacity: 1; /* Firefox */
+  }
+
+
+div.box input{border: none;}
+
+div.box input.left_input_bg{background: #65717c;color: white;}
+div.right_input_bg button{background: #31363c;color: white;border: none;}
+
+ul.ul2_icon_list{padding: 0px;}
+
+a.navbar-brand  {font-size: 30px;}
+
+/* =====================================
+NEXT TOP HEADER DESIGN START
+===================================== */
+
+/* =====================================
+FIRST BLOCK DESIGN START
+===================================== */
+
+div.mainBlock{margin-top: -101px;}
+div.secondContentBlock{background: #31363c;padding: 0px 0px;}
+nav.navbar{padding: 0px 0px;}
+li.nav-item{padding: 8px 7px;}
+li.nav-item:hover{background: #202326;}
+li.nav-item a.nav-link{font-size: 12pt;color: white;}
+
+/* =====================================
+FIRST BLOCK DESIGN END
+===================================== */
+
+/* =====================================
+SECOND BLOCK DESIGN START
+===================================== */
+div.secondContentTwoBlock{padding: 30px 30px;background: white;}
+div.slider_image_block{width: 100%;padding: 8px;border: 1px solid #dddddd;overflow: hidden;}
+div.slider_image_block img{width: 100%;}
+
+div.writeBlock{width: 100%;
+    margin-left: 40px;
+    margin-top: -109px;
+    color: white;
+    z-index: 106;
+    font-size: 14px;}
+
+div.writeBlock p.paraOpacityBg{padding: 11px 21px;
+    background: #141414;width: 499px;position: relative;}
+
+    ul.doted_list_ul{text-align: right;
+    margin-right: 85px;
+    margin-top: -44px;}
+
+ul.doted_list_ul li.doted_list a.doted_link{color: white;}
+ul.doted_list_ul li.doted_list a.doted_link:hover{opacity: 0.9;color: turquoise;}
+
+/* =====================================
+SECOND BLOCK DESIGN END
+===================================== */
+
+/* =====================================
+THIRD BLOCK DESIGN START
+===================================== */
+
+div.main_content_block{width: 100%;border-bottom: 2px solid #eaeaea;overflow: hidden;}
+div.single_block{width: 223px;float: left;text-align: center;margin-top: 37px;padding: 45px 0px;margin-right: 62px;}
+div.single_block:last-child{margin-right: 0px;}
+div.single_block div.icon_block{margin-bottom: 17px;}
+div.single_block h3.single_block_title{font-size: 17pt;margin-bottom: 15px;color: #4c555e;}
+div.single_block p.single_para_block{font-size: 11pt;color: #7f7d77;}
+
+/* =====================================
+THIRD BLOCK DESIGN END
+===================================== */
+
+/* =====================================
+FOURTH BLOCK DESIGN START
+===================================== */
+
+div.just_title_block{text-align: center;padding: 26px 0px;color: gray;border-bottom: 2px solid #eaeaea;}
+
+/* =====================================
+FOURTH BLOCK DESIGN END
+===================================== */
+
+/* =====================================
+FIFTH BLOCK DESIGN START
+===================================== */
+
+div.main_content_block_two{width: 100%;overflow: hidden;padding: 20px 0px;}
+div.single_two_block{width:231px;height: 325px;float: left;margin-right: 52px;}
+div.single_two_block:last-child{margin-right: 0px;}
+
+div.single_two_block h3.single_title_two{
+    font-size: 20px;
+    font-weight: 700;
+    padding: 7px 0px;
+    margin-top: 31px;
+    color: #7f7d77;
+}
+div.single_two_block p.left_para_two{
+    font-size: 15px;
+    color: #7f7d77;
+}
+
+div.image_two_block{width: 100%;margin-top: 37px;margin-bottom: 25px;}
+div.image_two_block img{width: 100%;}
+div.single_two_block p.para_two{
+    font-size: 15px;
+    color: #7f7d77;
+}
+div.single_two_block a.link_two{
+    text-decoration: none;
+    color: #4c555e;
+}
+div.single_two_block a.link_two:hover{color: red;}
+
+div.single_two_block a.link_two i{
+    font-size: 12px;
+}
+
+
+/* =====================================
+FIFTH BLOCK DESIGN START
+===================================== */
+
+/* =====================================
+SIXTH BLOCK DESIGN START
+===================================== */
+
+div.border_block{border: 3px solid #d8d7d7;}
+
+/* =====================================
+SIXTH BLOCK DESIGN END
+===================================== */
+
+/* =====================================
+FOOTER BLOCK DESIGN START
+===================================== */
+
+footer{background: #ededed;width: 100%;border-bottom: 2px solid #bcbcbc;}
+div.main_footer_block{overflow: hidden;padding: 35px 0px;}
+div.single_footer_block{width: 336px;}
+div.single_footer_block:first-child{float:left;margin-right: 51px;}
+div.single_footer_block:nth-child(2){float: left;margin-right: 51px;}
+div.single_footer_block:last-child{float: right;}
+div.single_block_top{width: 100%;}
+
+h4.footer_title{
+    font-size: 12pt;
+    font-weight: bold;
+    color: #7f7d77;
+    margin-bottom: 23px;
+}
+p.footer_para{
+    font-size: 12pt;
+    color: #7f7d77;
+}
+h4.fontSmall{
+    font-size: 12pt;
+    font-weight: bold;
+    color: #7f7d77;
+    margin-top: 21px;
+}
+h5.post_title{
+    font-size: 14pt;
+    color: #7f7d77;
+}
+span.date_times{
+    font-size: 10pt;
+    color: #7f7d77;
+}
+a.footer_link{
+    font-size: 13pt;
+    text-decoration: none;
+    color: #7f7d77;
+}
+
+a.footer_link:hover{color: rgb(15, 207, 15);text-decoration: underline;}
+
+a.footer_link i{
+    font-size: 13px;
+}
+
+ul.footer_list{
+    list-style: none;
+    padding-left: 0px;
+}
+ul.footer_list li.list{
+    border-bottom: 2px solid #dddddd;
+}
+ul.footer_list li.list a.footer_two_link{
+    text-decoration: none;
+    color: #7f7d77;
+    line-height: 33px;
+}
+
+ul.footer_list li.list a.footer_two_link:hover{color: rgb(15, 207, 15);text-decoration: underline;}
+
+ul.footer_list li.list a.footer_two_link i{
+    font-size: 13px;
+    margin-right: 7px;
+}
+
+form input.input_form{
+    margin-bottom: 15px;
+}
+form input.button{
+    margin-bottom: 33px;
+}
+p.info{font-size: 12pt;color: #7f7d77;}
+
+
+/* =====================================
+FOOTER BLOCK DESIGN END
+===================================== */
+
+/* =====================================
+FOOTER END COPYRIGHT BLOCK DESIGN START
+===================================== */
+
+div.last_wrapper_block{background: #ededed;width: 100%;}
+div.last_content{padding: 25px 0px;}
+div.last_content p{margin-bottom: 0px;color: #7f7d77;}
+
+/* =====================================
+FOOTER END COPYRIGHT BLOCK DESIGN END
+===================================== */
+

@@ -1,0 +1,197 @@
+@media only screen and (min-width:200px) and (max-width:767px){
+
+/* =====================================
+TOP HEADER DESIGN START
+===================================== */
+
+div.flRg{    float: none !important;
+    margin: auto;
+    width: 100% !important;
+    display: initial;
+    text-align: center;}
+ul.icon_list_ul{float: none !important;}
+ul.ul2_icon_list{float: none !important;}
+li.li2_icon_list a.link2{font-size: 15px;}
+
+/* =====================================
+TOP HEADER DESIGN END
+===================================== */
+
+
+/* =====================================
+NEXT TOP HEADER DESIGN START
+===================================== */
+a.logo_link{font-size: 11px;}
+
+form.form_block{margin-top: 20px;}
+
+/* =====================================
+NEXT TOP HEADER DESIGN START
+===================================== */
+
+
+/* =====================================
+FIRST BLOCK DESIGN START
+===================================== */
+
+nav.navbar{padding: 10px 15px;}
+li.nav-item a.nav-link{font-size: 12pt;color: white;text-align: center;}
+
+/* =====================================
+FIRST BLOCK DESIGN END
+===================================== */
+
+/* =====================================
+SECOND BLOCK DESIGN START
+===================================== */
+
+div.writeBlock{margin-top: -135px;position: relative;}
+div.writeBlock p.paraOpacityBg{width: 60%;position: relative;display: none;}
+ul.doted_list_ul{margin-top: 82px;}
+
+/* =====================================
+SECOND BLOCK DESIGN END
+===================================== */
+
+/* =====================================
+THIRD BLOCK DESIGN START
+===================================== */
+
+div.main_content_block{margin-top: 135px;}
+div.single_block{border: 2px solid #eaeaea;width: 100%;margin: auto;margin-bottom: 35px;float: none;}
+
+/* =====================================
+THIRD BLOCK DESIGN END
+===================================== */
+
+/* =====================================
+FIFTH BLOCK DESIGN START
+===================================== */
+
+div.single_two_block:first-child{width: 100%;height: auto;text-align: center;}
+
+div.image_two_block img{width: auto;}
+div.single_two_block{text-align: center;width: 100%;}
+
+/* =====================================
+FIFTH BLOCK DESIGN END
+===================================== */
+
+/* =====================================
+FOOTER BLOCK DESIGN START
+===================================== */
+
+div.single_footer_block:first-child{float: none;text-align: center;width: 100%;margin-bottom: 35px;padding-bottom: 35px;border-bottom: 3px solid gray;}
+div.single_footer_block:nth-child(2){float: none;width: 100%;margin-bottom: 35px;border-bottom: 3px solid gray;padding-bottom: 35px;}
+h4.footer_title{text-align: center;}
+ul.footer_list li.list a.footer_two_link{margin-left: 50px;}
+
+div.single_footer_block:last-child{float: none;width: 100%;text-align: center;}
+
+/* =====================================
+FOOTER BLOCK DESIGN END
+===================================== */
+
+/* =====================================
+FOOTER END COPYRIGHT BLOCK DESIGN START
+===================================== */
+
+div.last_content p.left_para{float: none !important;text-align: center;}
+div.last_content p.right_para{float: none !important;text-align: center;}
+
+/* =====================================
+FOOTER END COPYRIGHT BLOCK DESIGN END
+===================================== */
+
+}
+
+
+@media only screen and (min-width:768px) and (max-width:1199px){
+
+
+/* =====================================
+SECOND BLOCK DESIGN START
+===================================== */
+
+div.writeBlock{margin-top: -135px;overflow: hidden;}
+div.writeBlock p.paraOpacityBg{width: 60%;position: relative;}
+ul.doted_list_ul{margin-top: -40px;}
+
+/* =====================================
+SECOND BLOCK DESIGN END
+===================================== */
+
+/* =====================================
+THIRD BLOCK DESIGN START
+===================================== */
+
+div.main_content_block{margin-top: 35px;}
+div.single_block{border: 2px solid #eaeaea;width: 45%;margin-bottom: 35px;margin-right: 0px;}
+
+div.single_block:first-child{float: left;}
+div.single_block:nth-child(2){float: right;}
+div.single_block:nth-child(3){float: left;}
+div.single_block:last-child{float: right;}
+
+/* =====================================
+THIRD BLOCK DESIGN END
+===================================== */
+
+
+/* =====================================
+FIFTH BLOCK DESIGN START
+===================================== */
+
+div.main_content_block_two{width: 100%;padding: 30px 0px;}
+div.image_two_block img{width: auto;}
+div.single_two_block{text-align: center;width: 45%;border: 1px solid #eaeaea;margin-right: 0px;}
+
+div.single_two_block:first-child{float: left;margin-bottom: 30px;}
+div.single_two_block:nth-child(2){float: right;margin-bottom: 30px;}
+div.single_two_block:nth-child(3){float: left;}
+div.single_two_block:last-child{float: right;}
+
+/* =====================================
+FIFTH BLOCK DESIGN END
+===================================== */
+
+
+/* =====================================
+FOOTER BLOCK DESIGN START
+===================================== */
+
+div.single_footer_block:first-child{float: none;text-align: center;width: 100%;margin-bottom: 35px;padding-bottom: 35px;border-bottom: 3px solid gray;}
+div.single_footer_block:nth-child(2){float: none;width: 100%;margin-bottom: 35px;border-bottom: 3px solid gray;padding-bottom: 35px;}
+h4.footer_title{text-align: center;}
+ul.footer_list li.list a.footer_two_link{margin-left: 190px;}
+
+div.single_footer_block:last-child{float: none;width: 100%;text-align: center;}
+
+/* =====================================
+FOOTER BLOCK DESIGN END
+===================================== */
+
+}
+
+
+
+@media only screen and (min-width:768px) and (max-width:991px){
+
+
+    ul.navbar-nav{width: 100% !important;}
+    ul.navbar-nav li.nav-item a.nav-link{font-size: 12px;}
+
+}
+
+
+
+
+@media only screen and (min-width:150px) and (max-width:1325px){
+
+    div.content img{display: none;}
+
+
+
+
+}
+
